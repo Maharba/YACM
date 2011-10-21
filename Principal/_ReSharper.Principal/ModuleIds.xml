@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="EFB36F54-33AF-4C2D-9EA3-9F0F9713EF71" ModuleId="Principal" />
+  <Module PersistentId="7ABCF3E6-406E-4C83-823A-F6531874A4FF" ModuleId="CapturadorPreguntas" />
+  <Module PersistentId="3774A0D3-718D-43E6-949D-86E4590C4362" ModuleId="RegistroEquipos" />
+  <Module PersistentId="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D" ModuleId="Equipos" />
+</Modules>

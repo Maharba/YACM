@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreguntas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preguntas Nivel="7" Valor="234" Tiempo="123">
+    <PreguntaPresentador>dfgdfg</PreguntaPresentador>
+    <PreguntaPantalla>sdfsdf</PreguntaPantalla>
+    <Respuesta>asd</Respuesta>
+  </Preguntas>
+</ArrayOfPreguntas>

@@ -1,0 +1,42 @@
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\CapturadorPreguntas.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\CapturadorPreguntas.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Seguridad.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\WPFDeveloperTools.Controls.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.xml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizAdmin.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizEditor.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizAdmin.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizEditor.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas_Content.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Release\Quiz.xml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizEditor.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Release\CapturadorPreguntas.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreguntas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preguntas Categoria="Tercero(3)" Puntuacion="5pts" Tiempo="10">
+    <Pregunta>Pregunta 1
+</Pregunta>
+    <Respuesta>a</Respuesta>
+  </Preguntas>
+  <Preguntas Categoria="Quinto(5)" Puntuacion="10pts" Tiempo="20">
+    <Pregunta>Pregunta 2</Pregunta>
+    <Respuesta>b</Respuesta>
+  </Preguntas>
+  <Preguntas Categoria="Septimo(7)" Puntuacion="5pts" Tiempo="30">
+    <Pregunta>Pregunta 3</Pregunta>
+    <Respuesta>c</Respuesta>
+  </Preguntas>
+  <Preguntas Categoria="Noveno(9)" Puntuacion="20pts" Tiempo="40">
+    <Pregunta>Pregunta 4</Pregunta>
+    <Respuesta>d</Respuesta>
+  </Preguntas>
+  <Preguntas Categoria="Tercero(3)" Puntuacion="10pts" Tiempo="30">
+    <Pregunta>Pregunta 5</Pregunta>
+    <Respuesta>a</Respuesta>
+  </Preguntas>
+</ArrayOfPreguntas>

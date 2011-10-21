@@ -1,0 +1,711 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="725911E9-DBBF-48A4-B532-F6210F6D45EE/f:Preguntas.cs" caret="923" fromTop="13" />
+      <File id="725911E9-DBBF-48A4-B532-F6210F6D45EE/f:ListaPreguntas.cs" caret="0" fromTop="0" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:App.config" caret="0" fromTop="0" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizEditor.xaml.cs" caret="2344" fromTop="14" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml.cs" caret="7392" fromTop="177" />
+      <File id="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D/f:Equipo.cs" caret="804" fromTop="28" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:Marcador.cs" caret="382" fromTop="13" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizEditor.xaml" caret="507" fromTop="5" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:App.xaml" caret="0" fromTop="0" />
+      <File id="E7640A50-48E2-4330-865B-60A3F190D35E/f:App.xaml" caret="320" fromTop="5" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndConfig.xaml" caret="7096" fromTop="5" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:Proyector.cs" caret="329" fromTop="7" />
+      <File id="725911E9-DBBF-48A4-B532-F6210F6D45EE/d:Serializador/f:PreguntasSerializador.cs" caret="1165" fromTop="15" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:ReciclarPreguntas.cs" caret="3875" fromTop="23" />
+      <File id="E7640A50-48E2-4330-865B-60A3F190D35E/f:AsistenteCalibracion.xaml" caret="2984" fromTop="6" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:ConfigAcciones.cs" caret="3377" fromTop="34" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:ConverterEntero.cs" caret="0" fromTop="0" />
+      <File id="E7640A50-48E2-4330-865B-60A3F190D35E/f:AsistenteCalibracion.xaml.cs" caret="415" fromTop="14" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndConfig.xaml.cs" caret="0" fromTop="0" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:ListaBanners.cs" caret="836" fromTop="19" />
+      <File id="EFB36F54-33AF-4C2D-9EA3-9F0F9713EF71/f:MainWindow.xaml" caret="353" fromTop="3" />
+      <File id="EFB36F54-33AF-4C2D-9EA3-9F0F9713EF71/f:MainWindow.xaml.cs" caret="3038" fromTop="6" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml" caret="7547" fromTop="4" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaPresentacion.xaml" caret="550" fromTop="0" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml" caret="4806" fromTop="5" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaPresentacion.xaml.cs" caret="4483" fromTop="31" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml.cs" caret="4406" fromTop="9" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="20403" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="18921" fromTop="13" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml" caret="7757" fromTop="9" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml" caret="7757" fromTop="5" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml" caret="7222" fromTop="2" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="5719" fromTop="12" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml" caret="7547" fromTop="4" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="13772" fromTop="26" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="28857" fromTop="18" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="18219" fromTop="20" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="20114" fromTop="25" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="20838" fromTop="26" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="21984" fromTop="34" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="22380" fromTop="34" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="19965" fromTop="18" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="25381" fromTop="16" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="26109" fromTop="23" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="13772" fromTop="8" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="13772" fromTop="11" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="13773" fromTop="23" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="10759" fromTop="12" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="24188" fromTop="13" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml" caret="1968" fromTop="5" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml.cs" caret="4073" fromTop="25" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml" caret="7159" fromTop="2" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="16405" fromTop="14" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="17504" fromTop="20" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="17222" fromTop="18" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="16163" fromTop="3" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndPantallaConcurso.xaml.cs" caret="4406" fromTop="9" />
+      <File id="7D0CA872-2739-4321-8BCC-AE9532E4CFF9/f:wndAdminPantallas.xaml.cs" caret="20403" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="7" />
+      <Item value="Registro_Equipos" priority="2" />
+      <Item value="RegistroEquipos`0" priority="6" />
+      <Item value="registroEquipos" priority="1" />
+      <Item value="new" priority="55" />
+      <Item value="RegistroEquipos" priority="0" />
+      <Item value="MenuPrincipal" priority="1" />
+      <Item value="wndAdminPantallas`0" priority="3" />
+      <Item value="adminPantallas" priority="0" />
+      <Item value="wndAdminPantallas" priority="1" />
+      <Item value="wndConfig`0" priority="1" />
+      <Item value="public" priority="25" />
+      <Item value="void" priority="20" />
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="_xmlDoc" priority="2" />
+      <Item value="XmlNode`0" priority="0" />
+      <Item value="Properties" priority="0" />
+      <Item value="Settings`0" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Configuration" priority="1" />
+      <Item value="Configuration`0" priority="2" />
+      <Item value="ConfigurationManager`0" priority="16" />
+      <Item value="List`0" priority="0" />
+      <Item value="ObservableCollection" priority="3" />
+      <Item value="ListaDisponibles" priority="2" />
+      <Item value="Quiz" priority="0" />
+      <Item value="PreguntasAcciones`0" priority="1" />
+      <Item value="PreguntasAcciones" priority="0" />
+      <Item value="p" priority="1" />
+      <Item value="listaPreguntasDisponibles" priority="2" />
+      <Item value="preguntasSerializador" priority="0" />
+      <Item value="int" priority="18" />
+      <Item value="lstEquipo1" priority="10" />
+      <Item value="as" priority="10" />
+      <Item value="Equipo`0" priority="27" />
+      <Item value="private" priority="18" />
+      <Item value="equipo" priority="20" />
+      <Item value="if" priority="51" />
+      <Item value="return" priority="22" />
+      <Item value="else" priority="25" />
+      <Item value="ObtenerNivelEquipo`0" priority="9" />
+      <Item value="nivel" priority="1" />
+      <Item value="txtPreguntaPresentador" priority="3" />
+      <Item value="Equipos" priority="2" />
+      <Item value="Serializador" priority="0" />
+      <Item value="PreguntasSerializador`0" priority="2" />
+      <Item value="static" priority="28" />
+      <Item value="ReciclarPreguntas`0" priority="42" />
+      <Item value="readonly" priority="0" />
+      <Item value="ReciclarPreguntas" priority="0" />
+      <Item value="e1" priority="1" />
+      <Item value="e2" priority="1" />
+      <Item value="lstEquipo2" priority="8" />
+      <Item value="ObservableCollection&lt;Preguntas&gt;" priority="1" />
+      <Item value="equipo1" priority="14" />
+      <Item value="equipo2" priority="12" />
+      <Item value="true" priority="13" />
+      <Item value="Window1`0" priority="0" />
+      <Item value="string" priority="32" />
+      <Item value="pantalla" priority="1" />
+      <Item value="Proyector`0" priority="7" />
+      <Item value="pantallaPresentacion" priority="29" />
+      <Item value="pantallaConcurso" priority="42" />
+      <Item value="Preguntas`0" priority="15" />
+      <Item value="preguntas" priority="1" />
+      <Item value="pregunta" priority="9" />
+      <Item value="MessageBox`0" priority="12" />
+      <Item value="prop" priority="3" />
+      <Item value="listaDisponibles" priority="14" />
+      <Item value="value" priority="6" />
+      <Item value="PreguntasSerializador" priority="0" />
+      <Item value="ps" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="List&lt;Preguntas&gt;" priority="0" />
+      <Item value="filtroPreguntas" priority="5" />
+      <Item value="ObtenerNivelPreguntas`0" priority="4" />
+      <Item value="Reciclar`0" priority="0" />
+      <Item value="null" priority="9" />
+      <Item value="preguntaActual" priority="24" />
+      <Item value="Preguntas" priority="0" />
+      <Item value="txtRespuesta" priority="3" />
+      <Item value="txtPuntosPregunta" priority="1" />
+      <Item value="OutOfMemoryException`0" priority="0" />
+      <Item value="btnNuevaRonda" priority="2" />
+      <Item value="btnAcertoE1" priority="3" />
+      <Item value="btnAcertoE2" priority="3" />
+      <Item value="btnNadieAcerto" priority="4" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="break" priority="3" />
+      <Item value="lstTemp" priority="3" />
+      <Item value="ListaRonda" priority="4" />
+      <Item value="lbEquipo1" priority="0" />
+      <Item value="btnModPuntosE1" priority="0" />
+      <Item value="false" priority="32" />
+      <Item value="btnModPuntosE2" priority="0" />
+      <Item value="btnDeshacerPuntuacion" priority="0" />
+      <Item value="btnSiguiente" priority="8" />
+      <Item value="propg" priority="0" />
+      <Item value="listaRonda" priority="8" />
+      <Item value="btnIniciarTiempo" priority="3" />
+      <Item value="wndPantallaConcurso" priority="2" />
+      <Item value="wndPantallaPresentacion" priority="4" />
+      <Item value="TimeSpan`0" priority="11" />
+      <Item value="double" priority="1" />
+      <Item value="btnPausarTiempo" priority="4" />
+      <Item value="txtPuntosE1" priority="2" />
+      <Item value="puntaje" priority="1" />
+      <Item value="MostrarMensaje`0" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="MessageBoxImage`0" priority="0" />
+      <Item value="wndPantallaConcurso`0" priority="7" />
+      <Item value="InitializeComponent`0" priority="1" />
+      <Item value="exception" priority="0" />
+      <Item value="formatException" priority="1" />
+      <Item value="puntos" priority="1" />
+      <Item value="Puntos" priority="1" />
+      <Item value="valor" priority="0" />
+      <Item value="Stack" priority="1" />
+      <Item value="Marcador`0" priority="1" />
+      <Item value="puntajeE1" priority="11" />
+      <Item value="puntajeE2" priority="9" />
+      <Item value="Marcador" priority="1" />
+      <Item value="_undoStack" priority="3" />
+      <Item value="puntajeActual" priority="1" />
+      <Item value="TimeSpan" priority="4" />
+      <Item value="txtPregunta" priority="0" />
+      <Item value="Hide`0" priority="0" />
+      <Item value="Visibility`0" priority="2" />
+      <Item value="Visibility" priority="0" />
+      <Item value="Tiempo" priority="0" />
+      <Item value="EstablecerPuntaje`0" priority="0" />
+      <Item value="MostrarPantallaPresentacion`0" priority="1" />
+      <Item value="MostrarPantallaConcurso`0" priority="1" />
+      <Item value="CapturadorPreguntas" priority="0" />
+      <Item value="stkE1" priority="0" />
+      <Item value="lblPEquipo1" priority="0" />
+      <Item value="lblE1Integrante1" priority="0" />
+      <Item value="lblE1Integrante2" priority="0" />
+      <Item value="lblE1Integrante3" priority="0" />
+      <Item value="lblPEquipo2" priority="0" />
+      <Item value="lblE2Integrante1" priority="0" />
+      <Item value="lblE2Integrante2" priority="0" />
+      <Item value="lblE2Integrante3" priority="0" />
+      <Item value="wndPantallaPresentacion`0" priority="5" />
+      <Item value="noPregunta" priority="4" />
+      <Item value="btnMostrarPantalla" priority="3" />
+      <Item value="event" priority="4" />
+      <Item value="EventHandler`0" priority="3" />
+      <Item value="object" priority="1" />
+      <Item value="operator" priority="1" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="PantallaMostrada" priority="3" />
+      <Item value="this" priority="4" />
+      <Item value="EventArgs" priority="3" />
+      <Item value="InvokePantallaMostrada`0" priority="0" />
+      <Item value="PantallaNoMostrada" priority="1" />
+      <Item value="btnOcultarPantalla" priority="3" />
+      <Item value="_pantallaPresentacion" priority="16" />
+      <Item value="_pantallaConcurso" priority="11" />
+      <Item value="btnLimpiarPantalla" priority="2" />
+      <Item value="Color`0" priority="0" />
+      <Item value="Brushes`0" priority="6" />
+      <Item value="btnMostrarDatosPantalla" priority="1" />
+      <Item value="_timer" priority="9" />
+      <Item value="Timer" priority="0" />
+      <Item value="_limite" priority="5" />
+      <Item value="e" priority="3" />
+      <Item value="_suma" priority="1" />
+      <Item value="DoubleAnimation" priority="4" />
+      <Item value="Duration" priority="0" />
+      <Item value="fadeIn" priority="1" />
+      <Item value="lblBanners" priority="9" />
+      <Item value="Label`0" priority="0" />
+      <Item value="TextBlock`0" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="Dispatcher" priority="0" />
+      <Item value="ElapsedEventArgs`0" priority="0" />
+      <Item value="_timer_Elapsed`0" priority="0" />
+      <Item value="DoubleAnimation`0" priority="3" />
+      <Item value="asrt" priority="0" />
+      <Item value="da" priority="2" />
+      <Item value="Opacity" priority="0" />
+      <Item value="OpacityProperty" priority="3" />
+      <Item value="DispatcherTimer`0" priority="0" />
+      <Item value="DispatcherTimer" priority="0" />
+      <Item value="dispatcher" priority="0" />
+      <Item value="Interval" priority="1" />
+      <Item value="Tick" priority="0" />
+      <Item value="_segundosLimite" priority="5" />
+      <Item value="do" priority="1" />
+      <Item value="dAnima" priority="4" />
+      <Item value="ComenzarAnimacionBanners`0" priority="0" />
+      <Item value="FadeOutBanners`0" priority="0" />
+      <Item value="FadeInBanners`0" priority="0" />
+      <Item value="Thread`0" priority="3" />
+      <Item value="From" priority="0" />
+      <Item value="EffectProperty" priority="0" />
+      <Item value="StringAnimationBase`0" priority="0" />
+      <Item value="StringAnimationUsingKeyFrames`0" priority="0" />
+      <Item value="StringAnimationUsingKeyFrames" priority="0" />
+      <Item value="DiscreteStringKeyFrame`0" priority="0" />
+      <Item value="DiscreteStringKeyFrame" priority="1" />
+      <Item value="d" priority="1" />
+      <Item value="foreach" priority="4" />
+      <Item value="lb" priority="1" />
+      <Item value="banner" priority="2" />
+      <Item value="j" priority="1" />
+      <Item value="i" priority="2" />
+      <Item value="bb" priority="0" />
+      <Item value="KeyTime" priority="0" />
+      <Item value="KeyTime`0" priority="0" />
+      <Item value="ContentProperty" priority="0" />
+      <Item value="animation" priority="5" />
+      <Item value="Mover" priority="2" />
+      <Item value="TranslateTransform`0" priority="1" />
+      <Item value="stckConfig" priority="0" />
+      <Item value="_siguiente" priority="14" />
+      <Item value="btnAnterior" priority="3" />
+      <Item value="_animation" priority="4" />
+      <Item value="_siguientes" priority="10" />
+      <Item value="Stack&lt;int&gt;" priority="0" />
+      <Item value="Close`0" priority="2" />
+      <Item value="btnCancelar" priority="0" />
+      <Item value="AsistenteCalibracionWindow" priority="0" />
+      <Item value="asistente" priority="3" />
+      <Item value="Title" priority="2" />
+      <Item value="listaTodas" priority="1" />
+      <Item value="index" priority="1" />
+      <Item value="list" priority="0" />
+      <Item value="InicioRonda`0" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="_listaDisponibles" priority="0" />
+      <Item value="preguntaRonda" priority="0" />
+      <Item value="btnLimpiarPantalla_Click`0" priority="0" />
+      <Item value="admin" priority="0" />
+      <Item value="_bitsDefault" priority="2" />
+      <Item value="RaisePropertyChanged`0" priority="2" />
+      <Item value="_bitsEquipo1" priority="2" />
+      <Item value="_bitsEquipo2" priority="2" />
+      <Item value="PuertoParalelo" priority="0" />
+      <Item value="Calibracion`0" priority="2" />
+      <Item value="calibracion" priority="10" />
+      <Item value="delegate" priority="0" />
+      <Item value="BotonPresionadoEventArgs`0" priority="0" />
+      <Item value="BotonPresionadoEventHandler`0" priority="0" />
+      <Item value="BotonPresionado" priority="1" />
+      <Item value="BotonPresionadoEventArgs" priority="0" />
+      <Item value="Boton" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="BotonConfigurar`0" priority="4" />
+      <Item value="B" priority="1" />
+      <Item value="elipseEquipo1" priority="0" />
+      <Item value="btnCalibrar1" priority="0" />
+      <Item value="CalibrarBotonA`0" priority="0" />
+      <Item value="elipseEquipo2" priority="0" />
+      <Item value="Brush`0" priority="0" />
+      <Item value="BotonEquipo1" priority="0" />
+      <Item value="BotonEquipo2" priority="0" />
+      <Item value="_btnEq2" priority="0" />
+      <Item value="config" priority="0" />
+      <Item value="_btnEq1" priority="0" />
+      <Item value="elipseEquipo1_1" priority="0" />
+      <Item value="unDelegadoHandler" priority="0" />
+      <Item value="unDelegadoHandler`0" priority="0" />
+      <Item value="cal_BotonAPresionado`0" priority="0" />
+      <Item value="VisualBrush" priority="0" />
+      <Item value="Visual`0" priority="0" />
+      <Item value="ss" priority="0" />
+      <Item value="MediaElement`0" priority="1" />
+      <Item value="MediaElement" priority="0" />
+      <Item value="Buzz" priority="2" />
+      <Item value="Manual" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="btnTerminar" priority="1" />
+      <Item value="FindeRonda`0" priority="0" />
+      <Item value="txtEquipoRespondio" priority="3" />
+      <Item value="nombreEquipo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Registro_Equipos.RegistroEquipos">
+      <Item value="ShowDialog`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.wndAdminPantallas">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="WindowState" priority="0" />
+      <Item value="IsEnabled" priority="0" />
+      <Item value="btnPausarTiempo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CapturadorPreguntas.QuizAdmin">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.wndConfig">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="ResourceAssembly" priority="1" />
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="FullName" priority="0" />
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.ConfigAcciones">
+      <Item value="CrearArchivoConfig`0" priority="0" />
+      <Item value="ActualizarLlave`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="AppendChild`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MenuPrincipal.Properties.Settings">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.Properties.Settings">
+      <Item value="SettingsKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="OpenExeConfiguration`0" priority="2" />
+      <Item value="AppSettings" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quiz.Acciones.PreguntasAcciones">
+      <Item value="ObtenerPreguntas`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quiz.Serializador.PreguntasSerializador">
+      <Item value="LeerBin`0" priority="0" />
+      <Item value="LeerXml`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Clear`0" priority="3" />
+      <Item value="Max`2" priority="0" />
+      <Item value="Count" priority="7" />
+      <Item value="Where`1" priority="0" />
+      <Item value="IndexOf`0" priority="3" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Remove`0" priority="2" />
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="17" />
+      <Item value="TryParse`0" priority="0" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="SelectedItem" priority="14" />
+      <Item value="ItemsSource" priority="1" />
+      <Item value="SelectedIndex" priority="3" />
+      <Item value="GroupStyleSelector" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Equipos.Equipo">
+      <Item value="Concursantes" priority="14" />
+      <Item value="NombreEquipo" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Equipos.Concursante">
+      <Item value="Semestre" priority="9" />
+      <Item value="NoControl" priority="0" />
+      <Item value="NombreAlumno" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MenuPrincipal.ReciclarPreguntas">
+      <Item value="ObtenerNivelPreguntas`0" priority="3" />
+      <Item value="NuevaRonda`0" priority="1" />
+      <Item value="ListaRonda" priority="4" />
+      <Item value="CargarPreguntas`0" priority="0" />
+      <Item value="ListaDisponibles" priority="1" />
+      <Item value="SiguientePregunta`0" priority="1" />
+      <Item value="equipo1" priority="8" />
+      <Item value="equipo2" priority="3" />
+      <Item value="PreguntaCorrecta`0" priority="0" />
+      <Item value="HayPreguntas`0" priority="0" />
+      <Item value="InicioRonda`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="6" />
+      <Item value="IsNullOrEmpty`0" priority="2" />
+      <Item value="IsNullOrWhiteSpace`0" priority="0" />
+      <Item value="Empty" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="Title" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MenuPrincipal.Proyector">
+      <Item value="MandarAProyector`0" priority="2" />
+      <Item value="MostrarEnProyector`0" priority="2" />
+      <Item value="PantallaMostrada" priority="0" />
+      <Item value="PantallaNoMostrada" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Quiz.Preguntas">
+      <Item value="PreguntaPresentador" priority="1" />
+      <Item value="Nivel" priority="3" />
+      <Item value="Respuesta" priority="3" />
+      <Item value="Valor" priority="6" />
+      <Item value="PreguntaPantalla" priority="0" />
+      <Item value="Tiempo" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Clear`0" priority="1" />
+      <Item value="AddRange`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="3" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.UInt16">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="43" />
+      <Item value="Content" priority="4" />
+      <Item value="Background" priority="2" />
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="16" />
+      <Item value="Visibility" priority="2" />
+      <Item value="DataContext" priority="0" />
+      <Item value="Opacity" priority="1" />
+      <Item value="BeginAnimation`0" priority="5" />
+      <Item value="Dispatcher" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.wndPantallaPresentacion">
+      <Item value="Close`0" priority="0" />
+      <Item value="Show`0" priority="6" />
+      <Item value="MostrarDatos`0" priority="0" />
+      <Item value="Limpiar`0" priority="1" />
+      <Item value="sckFondoEquipo1" priority="4" />
+      <Item value="Hide`0" priority="0" />
+      <Item value="Topmost" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.wndPantallaConcurso">
+      <Item value="Close`0" priority="0" />
+      <Item value="Show`0" priority="5" />
+      <Item value="EstablecerDatos`0" priority="0" />
+      <Item value="IniciarTimer`0" priority="1" />
+      <Item value="DetenerTimer`0" priority="3" />
+      <Item value="EstablecerPuntaje`0" priority="6" />
+      <Item value="MostrarMensaje`0" priority="1" />
+      <Item value="txtRespuesta" priority="3" />
+      <Item value="LimpiarPantalla`0" priority="1" />
+      <Item value="EstablecerEquipos`0" priority="0" />
+      <Item value="txtPregunta" priority="2" />
+      <Item value="Topmost" priority="1" />
+      <Item value="IsActive" priority="0" />
+      <Item value="IsLoaded" priority="0" />
+      <Item value="Puntos" priority="0" />
+      <Item value="EquipoPresionoBoton`0" priority="0" />
+      <Item value="Tiempo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="Parse`0" priority="0" />
+      <Item value="FromSeconds`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.FormatException">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Stack`1">
+      <Item value="Peek`0" priority="3" />
+      <Item value="Pop`0" priority="2" />
+      <Item value="Push`0" priority="4" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.Marcador">
+      <Item value="PuntosEquipo1" priority="1" />
+      <Item value="PuntosEquipo2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Hidden" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Shutdown`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Opacity" priority="2" />
+      <Item value="Background" priority="2" />
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Brush">
+      <Item value="Opacity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="LightBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
+      <Item value="LightBlue" priority="1" />
+      <Item value="Gray" priority="3" />
+      <Item value="Red" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Elapsed" priority="1" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.ElapsedEventArgs">
+      <Item value="SignalTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Add`0" priority="1" />
+      <Item value="Seconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.DoubleAnimation">
+      <Item value="BeginAnimation`0" priority="1" />
+      <Item value="From" priority="4" />
+      <Item value="To" priority="4" />
+      <Item value="Duration" priority="2" />
+      <Item value="DecelerationRatio" priority="0" />
+      <Item value="AccelerationRatio" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.TextBlock">
+      <Item value="OpacityProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="Thread" priority="0" />
+      <Item value="BeginInvoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Threading.DispatcherPriority">
+      <Item value="Normal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.DispatcherTimer">
+      <Item value="Tick" priority="0" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.DiscreteStringKeyFrame">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MenuPrincipal.ListaBanners">
+      <Item value="Lista" priority="0" />
+      <Item value="Cargar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Animation.KeyTime">
+      <Item value="TimeSpan" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Animation.KeyTime">
+      <Item value="FromTimeSpan`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.TranslateTransform">
+      <Item value="X" priority="0" />
+      <Item value="BeginAnimation`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.TranslateTransform">
+      <Item value="XProperty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AsistenteCalibracion.MainWindow">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AsistenteCalibracion.AsistenteCalibracionWindow">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="BotonEquipo1" priority="1" />
+      <Item value="BotonEquipo2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PuertoParalelo.Calibracion">
+      <Item value="IniciarCalibracion`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PuertoParalelo.Calibracion">
+      <Item value="BotonPresionado" priority="0" />
+      <Item value="Calibrar`0" priority="1" />
+      <Item value="BitsEquipo1" priority="0" />
+      <Item value="BitsEquipo2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PuertoParalelo.BotonPresionadoEventArgs">
+      <Item value="Boton" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PuertoParalelo.BotonConfigurar">
+      <Item value="A" priority="2" />
+      <Item value="B" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Ellipse">
+      <Item value="Fill" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.VisualBrush">
+      <Item value="Visual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.MediaElement">
+      <Item value="LoadedBehavior" priority="1" />
+      <Item value="Source" priority="0" />
+      <Item value="Play`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.MediaElement">
+      <Item value="LoadedBehaviorProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WPFDeveloperTools.Controls.FilteredTextBox.FilteredTextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

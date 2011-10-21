@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreguntas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preguntas Nivel="0" Valor="0" Tiempo="10">
+    <PreguntaPantalla>Cual es el valor de 1...?</PreguntaPantalla>
+    <Respuesta>a</Respuesta>
+  </Preguntas>
+</ArrayOfPreguntas>

@@ -1,0 +1,75 @@
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\bin\Debug\Paralelo.exe
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\bin\Debug\Paralelo.pdb
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\Paralelo.Form1.resources
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Isidro\Desktop\Paralelo\Paralelo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+K:\Paralelo\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Isidro\Documents\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Isidro\Documents\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.pdb
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Form1.resources
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\ResGen.read.1.tlog
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maharba\My Dropbox\Tec 7.1G\7 Semestre Mario Morales\Paralelo 1.6\Paralelo\obj\Debug\ResGen.write.1.tlog
+F:\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+F:\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb
+F:\Paralelo 1.6\Paralelo\bin\Debug\inpout32.dll
+F:\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe
+F:\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.pdb
+F:\Paralelo 1.6\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+F:\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Form1.resources
+F:\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+F:\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Paralelo 1.6\Paralelo\obj\Debug\ResGen.read.1.tlog
+F:\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Paralelo 1.6\Paralelo\obj\Debug\ResGen.write.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.pdb
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Form1.resources
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\ResGen.read.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\ResGen.write.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe.config
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe.config
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Form1.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\ResGen.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\Paralelo\obj\Debug\ResGen.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\Paralelo\bin\Debug\Paralelo.exe.config
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\Paralelo\obj\Debug\Paralelo.pdb

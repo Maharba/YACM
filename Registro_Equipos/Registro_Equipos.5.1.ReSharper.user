@@ -1,0 +1,110 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D/f:Concursante.cs" caret="0" fromTop="0" />
+      <File id="F7C6F7DF-9F3A-445A-BB84-DA4CDCD33BD1/f:RegistroEquipos.xaml" caret="305" fromTop="3" />
+      <File id="F7C6F7DF-9F3A-445A-BB84-DA4CDCD33BD1/f:RegistroEquipos.xaml.cs" caret="1530" fromTop="13" />
+      <File id="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D/f:ListaEquipos.cs" caret="3615" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D/f:ListaEquipos.cs" caret="3615" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="9" />
+      <Item value="lvEquipos" priority="3" />
+      <Item value="new" priority="4" />
+      <Item value="object" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="abrirLista" priority="2" />
+      <Item value="archivo" priority="6" />
+      <Item value="else" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="MainWindow`0" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="nombreArchivo" priority="3" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Datos`0" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="nombreequipo" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="AbandonedMutexException" priority="1" />
+      <Item value="ApplicationException`0" priority="1" />
+      <Item value="integrante" priority="0" />
+      <Item value="Lista" priority="0" />
+      <Item value="equipo" priority="1" />
+      <Item value="indice" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="Equipo`0" priority="0" />
+      <Item value="MessageBoxResult`0" priority="0" />
+      <Item value="escuela" priority="2" />
+      <Item value="equipos" priority="1" />
+      <Item value="ListaEquipos" priority="0" />
+      <Item value="Title" priority="2" />
+      <Item value="_abrirLista" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Warning" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListView">
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="ItemsSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="FileName" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Registro_Equipos.MainWindow">
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Registro_Equipos.Datos">
+      <Item value="equipos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Equipos.ListaEquipos">
+      <Item value="Lista" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Equipos.Concursante">
+      <Item value="NoControl" priority="0" />
+      <Item value="NombreAlumno" priority="0" />
+      <Item value="Semestre" priority="0" />
+      <Item value="Carrera" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Equipos.Equipo">
+      <Item value="NombreEquipo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxResult">
+      <Item value="Yes" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

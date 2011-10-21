@@ -1,0 +1,107 @@
+﻿<Window x:Class="MenuPrincipal.wndPantallaConcurso"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:MenuPrincipal" Title="Pantalla de Concurso" Height="515" Width="600" Loaded="Window_Loaded" WindowStyle="None" ResizeMode="NoResize">
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+            <GradientStop Color="LightGreen" Offset="1"></GradientStop>
+            <GradientStop Color="DarkGreen" Offset="0"></GradientStop>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Window.Resources>
+
+        <local:ConverterEntero x:Key="converter1"></local:ConverterEntero>
+
+        <Storyboard  x:Key="animacionequipo" SpeedRatio="3">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="escalarNombreEquipo" Storyboard.TargetProperty="ScaleX">
+                <LinearDoubleKeyFrame KeyTime="0:0:0" Value=".1"></LinearDoubleKeyFrame>
+                <LinearDoubleKeyFrame KeyTime="0:0:1" Value="1"></LinearDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="escalarNombreEquipo" Storyboard.TargetProperty="ScaleY">
+                <LinearDoubleKeyFrame KeyTime="0:0:0" Value=".1"></LinearDoubleKeyFrame>
+                <LinearDoubleKeyFrame KeyTime="0:0:4" Value="1"></LinearDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="Mensaje" Storyboard.TargetProperty="Opacity">
+                <DiscreteDoubleKeyFrame KeyTime="0:0:0" Value="0"></DiscreteDoubleKeyFrame>
+                <LinearDoubleKeyFrame KeyTime="0:0:4" Value="1"></LinearDoubleKeyFrame>
+                <DiscreteDoubleKeyFrame KeyTime="0:0:10" Value="0"></DiscreteDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>                
+    </Window.Resources>
+    <Viewbox Stretch="Uniform">
+        <Canvas Width="640" Height="480">
+
+
+            <TextBlock Canvas.Top="5" Canvas.Left="5" Height="230"  Foreground="Yellow" Width="600">
+            <TextBlock.Background>
+                <VisualBrush Stretch="Uniform" AlignmentY="Top" >
+                    <VisualBrush.Visual>
+                        <TextBlock Name="txtPregunta" Foreground="Yellow"  TextWrapping="Wrap" FontSize="35"></TextBlock>
+                    </VisualBrush.Visual>
+                </VisualBrush>
+            </TextBlock.Background>
+        </TextBlock>
+            <Grid Canvas.Bottom="10" Canvas.Left="10"  Width="250" Height="150" >
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="35" />
+                    <RowDefinition Height="120"  />
+                </Grid.RowDefinitions>
+                <Slider Maximum="1000" Name="puntaje1" Visibility="Hidden"></Slider>
+                <Label BorderThickness="1" Height="120" FontWeight="Bold" BorderBrush="Black" Grid.Row="1" FontFamily="Arial" FontSize="100" Background="Cornsilk" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0">
+                    <Label.Content>
+                        <Binding ElementName="puntaje1" Path="Value" Converter="{StaticResource converter1}" />
+                    </Label.Content>
+                </Label>
+                <Label Name="Equipo1" BorderThickness="1" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="13" FontFamily="Arial Black" Background="YellowGreen" Foreground="Black" >NOMBRE DEL EQUIPO</Label>
+            </Grid>
+            <Grid Canvas.Bottom="10" Canvas.Right="10"  Width="250" Height="150" >
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="35" />
+                    <RowDefinition Height="120" />
+                </Grid.RowDefinitions>
+                <Slider Maximum="1000" Name="puntaje2" Visibility="Hidden"></Slider>
+                <Label BorderThickness="1" Height="120" FontWeight="Bold" BorderBrush="Black" Grid.Row="1" FontFamily="Arial" FontSize="100" Background="Cornsilk" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0">
+                    <Label.Content>
+                        <Binding ElementName="puntaje2" Path="Value" Converter="{StaticResource converter1}" />
+                    </Label.Content>
+                </Label>
+                <Label Name="Equipo2" BorderThickness="1" BorderBrush="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="13" FontFamily="Arial Black" Background="YellowGreen" Foreground="Black" >NOMBRE DEL EQUIPO</Label>
+            </Grid>
+            <Label Name="Tiempo"  Foreground="White" FontSize="20" Canvas.Top="290" Canvas.Left="10" >00:00:00</Label>
+            <Label Name="Puntos" Foreground="White" FontSize="20" Canvas.Top="290" Canvas.Right="10" >Puntos: 0</Label>
+            <TextBlock Visibility="Hidden" Name="txtRespuesta" Foreground="White" FontSize="25" Canvas.Top="245" Canvas.Left="10" Width="620" TextDecorations="Underline" TextAlignment="Center" TextWrapping="Wrap">Esta es la respuesta</TextBlock>
+
+            <Label Opacity="0" Name="Mensaje" BorderBrush="Lime" BorderThickness="1" Foreground="DarkGreen" FontSize="50" Canvas.Top="120" Canvas.Left="15"  Width="600" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="100" >
+                <Label.Background>
+                    <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                        <GradientStop Color="Green" Offset="0"></GradientStop>
+                        <GradientStop Color="Yellow" Offset=".5"></GradientStop>
+                        <GradientStop Color="Green" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Label.Background>
+                <Label.BitmapEffect>
+                    <DropShadowBitmapEffect Softness="0"></DropShadowBitmapEffect>
+                </Label.BitmapEffect>
+                <Rectangle Width="580" Height="90">
+                    <Rectangle.Fill>
+                        <VisualBrush>
+                            <VisualBrush.Visual>
+                                <TextBlock TextWrapping="Wrap" Name="TextoMensaje">
+                            <TextBlock.BitmapEffect>
+                                <OuterGlowBitmapEffect GlowColor="Yellow"></OuterGlowBitmapEffect>
+                            </TextBlock.BitmapEffect>
+                                Se acabo el tiempo
+                                </TextBlock>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Label.RenderTransform>
+                    <ScaleTransform x:Name="escalarNombreEquipo" ScaleX="1" ScaleY="1" CenterX="300" CenterY="50" />
+                </Label.RenderTransform>
+            </Label>
+            <TextBlock Opacity="0"  Name="txtEquipoRespondio" Foreground="White" FontSize="56" Canvas.Top="200" Canvas.Left="10" Width="620" TextAlignment="Center" TextWrapping="Wrap">               
+                Equipo Respondio</TextBlock>
+            
+        </Canvas>
+    </Viewbox>
+</Window>

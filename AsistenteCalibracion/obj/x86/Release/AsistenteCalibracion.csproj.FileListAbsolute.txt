@@ -1,0 +1,31 @@
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\inpout32.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\AsistenteCalibracion.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\AsistenteCalibracion.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\PuertoParalelo.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\PuertoParalelo.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\bin\Release\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\AsistenteCalibracion\obj\x86\Release\AsistenteCalibracion.pdb

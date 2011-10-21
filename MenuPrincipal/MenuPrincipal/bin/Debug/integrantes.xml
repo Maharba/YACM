@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaEquipos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lista>
+    <Equipo NombreEquipo="LOS SATA" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="061G0265" NombreAlumno="Mayra Alejandra Mendoza Rubio" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0241" NombreAlumno="Jassiel Alberto Farías Cárdenas" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0485" NombreAlumno="Lucila Rodríguez Rivera" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="TROYAN H1N1" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="061G0276" NombreAlumno="Erika Paola Ponce Chávez" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0279" NombreAlumno="Esdras Misael Ramírez Lara" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0262" NombreAlumno="Sergio Alejandro Martínez Inostroza" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="VISUAL SUICIDIO" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="081G0354" NombreAlumno="Janet Alejandra Valdéz Murillo" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0348" NombreAlumno="José Alberto Saldívar Flores" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0304" NombreAlumno="Juan Carlos García Rodríguez" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="REAL ATLÉTICO TEC" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="081I0355" NombreAlumno="Edgardo Varela De la Cruz" Semestre="3" />
+        <Concursante Carrera="I" NoControl="081I0363" NombreAlumno="Celeste Domínguez Romo" Semestre="3" />
+        <Concursante Carrera="I" NoControl="081I0379" NombreAlumno="Vianey  Monserrat Nevarez Rosas" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="P-K TEAM" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="071I0405" NombreAlumno="Georgina Zamora Rodríguez" Semestre="5" />
+        <Concursante Carrera="I" NoControl="071I0387" NombreAlumno="Jesús Roberto López Esparza" Semestre="5" />
+        <Concursante Carrera="I" NoControl="071I0481" NombreAlumno="Luis Enrique Mares Ortega" Semestre="5" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="KLAMBRES" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="071G0299" NombreAlumno="Abraham Chacón Landois" Semestre="5" />
+        <Concursante Carrera="G" NoControl="071G0306" NombreAlumno="José Isidro Gallegos Chapa" Semestre="5" />
+        <Concursante Carrera="G" NoControl="071G0356" NombreAlumno="Ana Laura Roque Chávez" Semestre="5" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="TIPOS GENÉRICOS" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="081G0408" NombreAlumno="Guadalupe de los Ángeles Hernández Rodríguez" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0303" NombreAlumno="Gabriela Berenice García García" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0350" NombreAlumno="José Manuel Sandoval Villarreal" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="9.1 I" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="051I0251" NombreAlumno="Juan Gerardo Llanas Reyes" Semestre="9" />
+        <Concursante Carrera="I" NoControl="051I0248" NombreAlumno="Ervey Cervantes de la Rosa" Semestre="9" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="LOS SIMULADORES" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="041I0061" NombreAlumno="Jessica Deniss Ibarra Castañeda" Semestre="12" />
+        <Concursante Carrera="I" NoControl="051I0268" NombreAlumno="Noé Andrés García Gómez" Semestre="9" />
+        <Concursante Carrera="I" NoControl="061I0055" NombreAlumno="Samuel Torres" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="LOS NIPONES" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="081G0318" NombreAlumno="Takeshi Kanagusico Mozqueda" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0329" NombreAlumno="Bianca Joana Medina Belmares" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0405" NombreAlumno="Humberto Cedillo Zamora" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="C´CHARKO" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="081G0481" NombreAlumno="César Eduardo Galindo Fraire" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0301" NombreAlumno="José Edgardo García Aldaba" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0288" NombreAlumno="Leonardo Daniel Carrillo Contreras" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="LOS MEGABYTES" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="061G0222" NombreAlumno="Lizeth Carolina Aguilar Tapia" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0252" NombreAlumno="Daniel Gutiérrez González" Semestre="7" />
+        <Concursante Carrera="G" NoControl="061G0246" NombreAlumno="Carlos Abraham García Lara" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="CHILAKILEZ" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="021I0271" NombreAlumno="Jorge Felipe Rodríguez Vargas" Semestre="8" />
+        <Concursante Carrera="I" NoControl="061I0012" NombreAlumno="Edgar Leonardo Robles Soria" Semestre="8" />
+        <Concursante Carrera="I" NoControl="061I0036" NombreAlumno="Jorge Eduardo Méndez Rocha" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="XTREME" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="051G0198" NombreAlumno="Juan Manuel Llanas Macias" Semestre="9" />
+        <Concursante Carrera="G" NoControl="051G0133" NombreAlumno="Adriana	Bravo García" Semestre="9" />
+        <Concursante Carrera="G" NoControl="051G0102" NombreAlumno="Juan Roberto Morín Martínez" Semestre="9" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="ALFA" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="081G0285" NombreAlumno="Favyola	Adames González" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0300" NombreAlumno="Patricia Alejandra Fernández Alemán" Semestre="3" />
+        <Concursante Carrera="G" NoControl="081G0333" NombreAlumno="Alfredo Moreno Rodríguez" Semestre="3" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="DEADLOCK" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="G" NoControl="071G0362" NombreAlumno="Arturo Sánchez Chavarría" Semestre="5" />
+        <Concursante Carrera="G" NoControl="071G0360" NombreAlumno="Christian Salazar Zamora" Semestre="5" />
+        <Concursante Carrera="G" NoControl="071G0329" NombreAlumno="José Arturo Martínez López" Semestre="5" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="LICSYS" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="091IE003" NombreAlumno="Iván Arriola Romero" Semestre="4" />
+        <Concursante Carrera="I" NoControl="091IE002" NombreAlumno="Jairo Ortiz Lugo" Semestre="4" />
+        <Concursante Carrera="G" NoControl="061G0251" NombreAlumno="Mario Iván Guerrero Muñoz" Semestre="7" />
+      </Concursantes>
+    </Equipo>
+    <Equipo NombreEquipo="LOS DE LA “I”" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="I" NoControl="071IE005" NombreAlumno="Rubén Darío Romo Ibarra" Semestre="9" />
+        <Concursante Carrera="I" NoControl="051I0246" NombreAlumno="Marco Escobedo Sánchez" Semestre="9" />
+      </Concursantes>
+    </Equipo>
+  </Lista>
+</ListaEquipos>

@@ -1,0 +1,599 @@
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\Window1.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\inpout32.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndAdminPantallas.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndBanners.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndConfig.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaPresentacion.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_Content.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal_MarkupCompile.lref
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\wndPantallaConcurso.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.g.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb

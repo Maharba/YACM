@@ -1,0 +1,65 @@
+﻿<Window x:Class="Principal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Administrador de Concursos" Height="450" Width="850" Style="{StaticResource FondoGradienteVerde}" Icon="medal.ico" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="true" />
+                        <Condition Property="Name" Value="txbCaptura" />
+                    </MultiTrigger.Conditions>
+                    <Setter Property="Text" Value="Esto es un ejemplo..." />
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0, 10, 10, 10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.40*"/>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock Name="txbPreguntas" Style="{StaticResource Textblocks}" FontSize="24" Text="Captura de Preguntas" MouseEnter="txbPreguntas_MouseEnter" MouseLeave="txbLimpiarDescripcion" MouseLeftButtonDown="txbPreguntas_MouseLeftButtonDown" />
+        <Separator VerticalAlignment="Bottom" />
+        <TextBlock Name="txbEquipos" Style="{StaticResource Textblocks}" FontSize="24" Grid.Row="1" MouseEnter="txbEquipos_MouseEnter" MouseLeave="txbLimpiarDescripcion" MouseLeftButtonDown="txbEquipos_MouseLeftButtonDown">Registro de Equipos</TextBlock>
+        <Separator VerticalAlignment="Bottom" Grid.Row="1" />
+        <TextBlock Name="txbConcurso" Style="{StaticResource Textblocks}" FontSize="24" Grid.Row="2" MouseEnter="txbConcurso_MouseEnter" MouseLeave="txbLimpiarDescripcion" MouseLeftButtonDown="txbConcurso_MouseLeftButtonDown">Iniciar Concurso</TextBlock>
+        <Separator VerticalAlignment="Bottom" Grid.Row="2" />
+        <TextBlock Name="txbConfig" Style="{StaticResource Textblocks}" FontSize="24" Grid.Row="3" MouseEnter="txbConfig_MouseEnter" MouseLeave="txbLimpiarDescripcion" MouseLeftButtonDown="txbConfig_MouseLeftButtonDown">Configuraciones Generales</TextBlock>
+        <Separator VerticalAlignment="Bottom" Grid.Row="3" />
+        <TextBlock Name="txbSalir" Style="{StaticResource Textblocks}" FontSize="24"  Grid.Row="4" MouseEnter="txbSalir_MouseEnter" MouseLeave="txbLimpiarDescripcion" MouseLeftButtonDown="txbSalir_MouseLeftButtonDown">Salir</TextBlock>
+        <GroupBox Name="gb1" Grid.Column="1" Grid.RowSpan="5" Margin="10">
+            <GroupBox.Header>
+                <TextBlock Style="{StaticResource Textblocks}" FontSize="22">Descripción</TextBlock>
+            </GroupBox.Header>
+            <Grid x:Name="grid1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.40*" />
+                    <RowDefinition Height="0.60*" />
+                </Grid.RowDefinitions>
+                <Grid.Background>
+                    <ImageBrush ImageSource="images/logo_tec.png" Stretch="Uniform" Opacity="0.1" />
+                </Grid.Background>
+                <TextBlock Name="txbDescripcion" Margin="10" FontSize="18" FontFamily="Consolas" Foreground="#A4FA84" TextWrapping="Wrap">
+                    <TextBlock.Effect>
+                        <DropShadowEffect />
+                    </TextBlock.Effect>
+                </TextBlock>
+                <Image Name="imgPreview" Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center" Margin="15">
+                    <Image.Effect>
+                        <DropShadowEffect />
+                    </Image.Effect>
+                </Image>
+                
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

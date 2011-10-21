@@ -1,0 +1,158 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="DllImport" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="string" priority="9" />
+      <Item value="prop" priority="0" />
+      <Item value="BitsDefault" priority="6" />
+      <Item value="if" priority="15" />
+      <Item value="res" priority="7" />
+      <Item value="BitsEquipo1" priority="11" />
+      <Item value="else" priority="3" />
+      <Item value="BitsEquipo2" priority="6" />
+      <Item value="Thread`0" priority="4" />
+      <Item value="ThreadState`0" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="t" priority="8" />
+      <Item value="txtEquipo1" priority="2" />
+      <Item value="txtEquipo2" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="result" priority="1" />
+      <Item value="enum" priority="0" />
+      <Item value="Botones`0" priority="7" />
+      <Item value="delegate" priority="2" />
+      <Item value="Metodo`0" priority="4" />
+      <Item value="ThreadStart`0" priority="4" />
+      <Item value="switch" priority="1" />
+      <Item value="chkbEq1" priority="4" />
+      <Item value="chkbEq2" priority="4" />
+      <Item value="ThreadStart" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="case" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="volatile" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="Escape" priority="0" />
+      <Item value="ts" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="do" priority="1" />
+      <Item value="equipo2" priority="0" />
+      <Item value="_shouldStop" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="Thread" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="BotonConfigurar`0" priority="4" />
+      <Item value="private" priority="1" />
+      <Item value="Calibracion`0" priority="6" />
+      <Item value="_result" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="_instancia" priority="0" />
+      <Item value="calibracion" priority="6" />
+      <Item value="Calibracion" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="Timer" priority="1" />
+      <Item value="b" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Paralelo.Form1">
+      <Item value="Text" priority="0" />
+      <Item value="KeyPress" priority="0" />
+      <Item value="KeyDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Abort`0" priority="3" />
+      <Item value="IsAlive" priority="1" />
+      <Item value="Join`0" priority="1" />
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="2" />
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Paralelo.Form1+Botones">
+      <Item value="A" priority="1" />
+      <Item value="B" priority="0" />
+      <Item value="Ninguno" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyValue" priority="1" />
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PuertoParalelo.Calibracion">
+      <Item value="IniciarCalibracion`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PuertoParalelo.Calibracion">
+      <Item value="Calibrar`0" priority="2" />
+      <Item value="BitsEquipo1" priority="0" />
+      <Item value="BitsEquipo2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PuertoParalelo.BotonConfigurar">
+      <Item value="Ninguno" priority="0" />
+      <Item value="A" priority="0" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:PortInterop.cs" caret="373" fromTop="11" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="548" fromTop="0" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:BotonConfigurar.cs" caret="182" fromTop="8" />
+      <File id="33792565-94E0-4A41-A501-1E7F994A20D8/f:Form1.cs" caret="4216" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:PortInterop.cs" caret="164" fromTop="7" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:PortInterop.cs" caret="382" fromTop="11" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:BotonConfigurar.cs" caret="182" fromTop="8" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="868" fromTop="16" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="1896" fromTop="36" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="1616" fromTop="29" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="1296" fromTop="21" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="411" fromTop="14" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="677" fromTop="24" />
+      <File id="172D4283-E380-4DEB-AA08-80814B50303B/f:Calibracion.cs" caret="388" fromTop="14" />
+      <File id="33792565-94E0-4A41-A501-1E7F994A20D8/f:Form1.cs" caret="4761" fromTop="34" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

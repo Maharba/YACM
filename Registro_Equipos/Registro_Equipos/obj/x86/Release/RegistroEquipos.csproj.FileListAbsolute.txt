@@ -1,0 +1,37 @@
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Datos.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\RegistroEquipos.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Datos.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\RegistroEquipos.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.exe.config
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Equipos.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Seguridad.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Equipos.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.exe.config
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Equipos.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\bin\Release\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Datos.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\RegistroEquipos.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Datos.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\RegistroEquipos.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Registro_Equipos\Registro_Equipos\obj\x86\Release\Registro_Equipos.pdb

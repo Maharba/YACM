@@ -1,0 +1,299 @@
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+F:\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+F:\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.dll
+F:\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.pdb
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+F:\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación\Concurso_Progra\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Documents\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Documents\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 1.0 BETA\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Seguridad.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\bin\Debug\Quiz.xml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizAdmin.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\QuizEditor.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_Content.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas_MarkupCompile.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.g.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.Properties.Resources.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\CapturadorPreguntas\obj\x86\Debug\CapturadorPreguntas.pdb

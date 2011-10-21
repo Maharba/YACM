@@ -1,0 +1,138 @@
+﻿<Window x:Class="CapturadorPreguntas.QuizAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Administrador de Preguntas" Height="450" Width="640" Loaded="WindowLoaded" Closing="WindowClosing" MinHeight="300" MinWidth="420" Icon="medal.ico">
+    
+    
+    <Window.Background>
+        <LinearGradientBrush StartPoint="1,0" EndPoint="1,1">
+            <LinearGradientBrush.GradientStops>
+                <GradientStop Color="#151E19" Offset="0" />
+                <GradientStop Color="#16472A" Offset="0.2" />
+                <GradientStop Color="#165D33" Offset="0.85" />
+                <GradientStop Color="#165D33" Offset="0.9" />
+                <GradientStop Color="#151E19" Offset="1" />
+                </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Window.Resources>
+        <Style x:Key="FondoDegradado">
+            <Setter Property="Control.Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="1,1" EndPoint="0,0">
+                        <GradientStop Color="White" Offset="1" />
+                        <GradientStop Color="LightGray" Offset="0" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" BorderThickness="0.1" BorderBrush="Black" Style="{StaticResource FondoDegradado}">
+            <Menu.Resources>
+                <Style x:Key="EstiloMenuItems" TargetType="{x:Type MenuItem}">
+                    <Setter Property="Width" Value="150" />
+                </Style>
+            </Menu.Resources>
+            <MenuItem Header="Archivo">
+                <MenuItem Name="nuevoMenuItem" Style="{StaticResource EstiloMenuItems}" Header="Nuevo" Click="NuevoMenuItemClick" />
+                <MenuItem Name="abrirMenuItem" Style="{StaticResource EstiloMenuItems}" Header="Abrir" Click="AbrirMenuItemClick" />
+                <MenuItem Name="guardarMeuItem" Style="{StaticResource EstiloMenuItems}" Header="Guardar" Click="GuardarMeuItemClick" />
+                <Separator />
+                <MenuItem Name="cerrarMenuItem" Style="{StaticResource EstiloMenuItems}" Header="Cerrar" Click="CerrarMenuItemClick" />
+            </MenuItem>
+            <MenuItem Header="Ayuda">
+                <MenuItem Name="acercaDeMenuItem" Style="{StaticResource EstiloMenuItems}" Header="Acerca de" Click="AcercaDeMenuItemClick" />
+            </MenuItem>
+        </Menu>
+        
+            <Grid>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <StackPanel Grid.ColumnSpan="3">
+                
+            </StackPanel>
+
+            <GroupBox Margin="5" BorderThickness="0,3,0,3" Grid.ColumnSpan="3">
+                <GroupBox.Header>
+                    <TextBlock HorizontalAlignment="Center" FontSize="48" FontFamily="Consolas" Foreground="#FFFFF0" Text="Preguntas">
+                    <TextBlock.Effect>
+                        <DropShadowEffect Color="Black" Direction="270" ShadowDepth="1" BlurRadius="10" />
+                    </TextBlock.Effect>
+                    </TextBlock>
+                </GroupBox.Header>
+
+                <ScrollViewer Grid.ColumnSpan="3" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <ListView  Name="lvPreguntas" Margin="15" SelectionChanged="LvPreguntasSelectionChanged" Style="{StaticResource FondoDegradado}">
+                        <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="Pregunta de Pantalla" Width="155">
+                                            <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding PreguntaPantalla}" Height="15"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Pregunta de Presentador" Width="155">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding PreguntaPresentador}" Height="15"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Respuesta" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Respuesta}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Nivel" Width="50">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Nivel}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Valor" Width="50">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Valor}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Tiempo (s)" Width="50">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Tiempo}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+        </ScrollViewer>
+                </GroupBox>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="3" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Height="30" Width="100" Margin="10" Name="btnAgregar" Click="BtnAgregarClick" Style="{StaticResource FondoDegradado}">Agregar</Button>
+                <Button Height="30" Width="100" Margin="10" Name="btnModificar" Click="BtnModificarClick" Style="{StaticResource FondoDegradado}">Modificar</Button>
+                <Button Height="30" Width="100" Margin="10" Name="btnEliminar" Click="BtnEliminarClick" Style="{StaticResource FondoDegradado}">Eliminar</Button>
+                <Button Height="30" Width="100" Margin="10" Name="btnCerrar" Click="BtnCerrarClick" Style="{StaticResource FondoDegradado}">Cerrar</Button>
+        </StackPanel>
+        
+        
+    </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,12 @@
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Release\inpout32.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Release\PuertoParalelo.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Release\PuertoParalelo.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Release\PuertoParalelo.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Release\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Release\inpout32.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Release\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Release\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Release\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Release\PuertoParalelo.pdb

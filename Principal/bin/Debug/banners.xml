@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaBanners xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lista>
+    <string>Banner 1</string>
+    <string>Banner 2</string>
+    <string>Banner 3</string>
+    <string>Banner 4</string>
+    <string>Banner 5</string>
+  </Lista>
+</ListaBanners>

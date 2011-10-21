@@ -1,0 +1,42 @@
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\inpout32.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Paralelo 1.6\PuertoParalelo\obj\Debug\PuertoParalelo.pdb

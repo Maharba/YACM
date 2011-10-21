@@ -1,0 +1,51 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="MessageBoxButton`0" priority="0" />
+      <Item value="MessageBoxImage`0" priority="0" />
+      <Item value="Yes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="YesNo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Warning" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizEditor.xaml" caret="4662" fromTop="9" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizEditor.xaml.cs" caret="372" fromTop="13" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml" caret="290" fromTop="3" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml.cs" caret="5649" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizEditor.xaml" caret="4566" fromTop="8" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml.cs" caret="4743" fromTop="9" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml.cs" caret="4344" fromTop="4" />
+      <File id="7ABCF3E6-406E-4C83-823A-F6531874A4FF/f:QuizAdmin.xaml.cs" caret="5675" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

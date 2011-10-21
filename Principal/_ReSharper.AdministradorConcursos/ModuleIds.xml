@@ -1,0 +1,12 @@
+<Modules>
+  <Module PersistentId="EFB36F54-33AF-4C2D-9EA3-9F0F9713EF71" ModuleId="Principal" />
+  <Module PersistentId="7ABCF3E6-406E-4C83-823A-F6531874A4FF" ModuleId="CapturadorPreguntas" />
+  <Module PersistentId="7D0CA872-2739-4321-8BCC-AE9532E4CFF9" ModuleId="MenuPrincipal" />
+  <Module PersistentId="87AE81E8-A6A2-4BB1-A720-19E5EC6BD30D" ModuleId="Equipos" />
+  <Module PersistentId="725911E9-DBBF-48A4-B532-F6210F6D45EE" ModuleId="Quiz" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="Equipos_1" />
+  <Module PersistentId="F7C6F7DF-9F3A-445A-BB84-DA4CDCD33BD1" ModuleId="RegistroEquipos" />
+  <Module PersistentId="E7640A50-48E2-4330-865B-60A3F190D35E" ModuleId="AsistenteCalibracion" />
+  <Module PersistentId="279D5A0E-8021-49AF-B093-6DF1C4EF78B0" ModuleId="ParaleloBotones" />
+  <Module PersistentId="172D4283-E380-4DEB-AA08-80814B50303B" ModuleId="PuertoParalelo" />
+</Modules>

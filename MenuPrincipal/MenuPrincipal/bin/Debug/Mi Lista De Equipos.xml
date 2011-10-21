@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaEquipos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lista>
+    <Equipo NombreEquipo="Mi Equipo" Escuela="ITESRC">
+      <Concursantes>
+        <Concursante Carrera="Sistemas" NoControl="1" NombreAlumno="Alumno1" Semestre="1" />
+      </Concursantes>
+    </Equipo>
+  </Lista>
+</ListaEquipos>

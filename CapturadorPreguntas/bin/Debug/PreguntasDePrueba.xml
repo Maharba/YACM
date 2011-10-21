@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreguntas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preguntas Nivel="1" Valor="5" Tiempo="5">
+    <PreguntaPresentador>a presentador</PreguntaPresentador>
+    <PreguntaPantalla>a pantalla</PreguntaPantalla>
+    <Respuesta>a</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="1" Valor="10" Tiempo="10">
+    <PreguntaPresentador>b Presentador</PreguntaPresentador>
+    <PreguntaPantalla>b Pantalla</PreguntaPantalla>
+    <Respuesta>b</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="1" Valor="15" Tiempo="15">
+    <PreguntaPresentador>c presentador</PreguntaPresentador>
+    <PreguntaPantalla>c pantalla</PreguntaPantalla>
+    <Respuesta>c</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="1" Valor="20" Tiempo="20">
+    <PreguntaPresentador>d presentador</PreguntaPresentador>
+    <PreguntaPantalla>d pantalla</PreguntaPantalla>
+    <Respuesta>d</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="2" Valor="5" Tiempo="5">
+    <PreguntaPresentador>e presentador</PreguntaPresentador>
+    <PreguntaPantalla>e pantalla</PreguntaPantalla>
+    <Respuesta>e</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="2" Valor="10" Tiempo="10">
+    <PreguntaPresentador>f Presentador</PreguntaPresentador>
+    <PreguntaPantalla>f Pantalla</PreguntaPantalla>
+    <Respuesta>f</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="2" Valor="15" Tiempo="15">
+    <PreguntaPresentador>g presentador</PreguntaPresentador>
+    <PreguntaPantalla>g pantalla</PreguntaPantalla>
+    <Respuesta>g</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="2" Valor="20" Tiempo="20">
+    <PreguntaPresentador>h presentador</PreguntaPresentador>
+    <PreguntaPantalla>h pantalla</PreguntaPantalla>
+    <Respuesta>h</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="3" Valor="5" Tiempo="5">
+    <PreguntaPresentador>private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            pantallaPresentacion.Close();
+            pantallaConcurso.Close();
+        }</PreguntaPresentador>
+    <PreguntaPantalla>private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            pantallaPresentacion.Close();
+            pantallaConcurso.Close();
+        }</PreguntaPantalla>
+    <Respuesta>Esta es la respuesta</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="3" Valor="10" Tiempo="10">
+    <PreguntaPresentador>j Presentador</PreguntaPresentador>
+    <PreguntaPantalla>j Pantalla</PreguntaPantalla>
+    <Respuesta>j</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="3" Valor="15" Tiempo="15">
+    <PreguntaPresentador>k presentador</PreguntaPresentador>
+    <PreguntaPantalla>k pantalla</PreguntaPantalla>
+    <Respuesta>k</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="3" Valor="20" Tiempo="20">
+    <PreguntaPresentador>l presentador</PreguntaPresentador>
+    <PreguntaPantalla>l pantalla</PreguntaPantalla>
+    <Respuesta>l</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="4" Valor="5" Tiempo="5">
+    <PreguntaPresentador>m presentador</PreguntaPresentador>
+    <PreguntaPantalla>m pantalla</PreguntaPantalla>
+    <Respuesta>m</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="4" Valor="10" Tiempo="10">
+    <PreguntaPresentador>n Presentador</PreguntaPresentador>
+    <PreguntaPantalla>n Pantalla</PreguntaPantalla>
+    <Respuesta>n</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="4" Valor="15" Tiempo="15">
+    <PreguntaPresentador>o presentador</PreguntaPresentador>
+    <PreguntaPantalla>o pantalla</PreguntaPantalla>
+    <Respuesta>o</Respuesta>
+  </Preguntas>
+  <Preguntas Nivel="4" Valor="20" Tiempo="20">
+    <PreguntaPresentador>p presentador</PreguntaPresentador>
+    <PreguntaPantalla>p pantalla</PreguntaPantalla>
+    <Respuesta>p</Respuesta>
+  </Preguntas>
+</ArrayOfPreguntas>

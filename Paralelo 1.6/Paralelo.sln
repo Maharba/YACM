@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralelo", "Paralelo\Paralelo.csproj", "{33792565-94E0-4A41-A501-1E7F994A20D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuertoParalelo", "PuertoParalelo\PuertoParalelo.csproj", "{172D4283-E380-4DEB-AA08-80814B50303B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33792565-94E0-4A41-A501-1E7F994A20D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33792565-94E0-4A41-A501-1E7F994A20D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33792565-94E0-4A41-A501-1E7F994A20D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33792565-94E0-4A41-A501-1E7F994A20D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172D4283-E380-4DEB-AA08-80814B50303B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172D4283-E380-4DEB-AA08-80814B50303B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172D4283-E380-4DEB-AA08-80814B50303B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172D4283-E380-4DEB-AA08-80814B50303B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,518 @@
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Concurso de Programación1\Concurso_Progra\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Equipos.dll
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Maharba\Desktop\Version 1.0 BETA\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 1\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 3\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 4\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 5\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 5\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 1.0 RC Build 6\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Equipos.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Version 1.0 RC Build 6 Mas actualizado\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Equipos.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto\Version 1.0 RC Build 6 Mas actualizado plus\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Maharba\Desktop\Todo sobre el proyecto\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\TEC\Escritorio\Proyecto Actualizado 2\Nueva carpeta\Proyecto Actualizado 2\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Isidro\Desktop\Version 2.0 RC Mas Nuevo\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Seguridad.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\WPFDeveloperTools.Controls.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\inpout32.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Principal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.dll
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.exe
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\CapturadorPreguntas.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Registro_Equipos.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Quiz.xml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\Equipos.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\PuertoParalelo.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\bin\Debug\AsistenteCalibracion.pdb
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_Content.g.cs
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.cache
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal_MarkupCompile.lref
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\App.baml
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.g.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\Principal.Properties.Resources.resources
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maharba\My Dropbox\Concurso De Programacion\Prototipo Nuevo\Version 2.0 RC Mas Nuevo Plus\Version 1.0 RC Build 7\Principal\obj\x86\Debug\GenerateResource.write.1.tlog

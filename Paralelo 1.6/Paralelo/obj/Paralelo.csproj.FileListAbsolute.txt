@@ -1,0 +1,27 @@
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\Paralelo.Form1.resources
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\Paralelo.csproj.GenerateResource.Cache
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\bin\Debug\inpout32.dll
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\bin\Debug\Paralelo.exe
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\bin\Debug\Paralelo.pdb
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+C:\Documents and Settings\itesrc\Escritorio\Paralelo\Paralelo\obj\Debug\Paralelo.pdb
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\Paralelo.pdb
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\bin\Debug\inpout32.dll
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\bin\Debug\Paralelo.exe
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\bin\Debug\Paralelo.pdb
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\Paralelo.Form1.resources
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+D:\7 Semestre\Concurso de programacion\Paralelo\Paralelo\obj\Debug\Paralelo.csproj.GenerateResource.Cache
+J:\Paralelo\Paralelo\obj\Debug\Paralelo.exe
+J:\Paralelo\Paralelo\obj\Debug\Paralelo.pdb
+J:\Paralelo\Paralelo\bin\Debug\inpout32.dll
+J:\Paralelo\Paralelo\bin\Debug\Paralelo.exe
+J:\Paralelo\Paralelo\bin\Debug\Paralelo.pdb
+J:\Paralelo\Paralelo\obj\Debug\ResolveAssemblyReference.cache
+J:\Paralelo\Paralelo\obj\Debug\Paralelo.Form1.resources
+J:\Paralelo\Paralelo\obj\Debug\Paralelo.Properties.Resources.resources
+J:\Paralelo\Paralelo\obj\Debug\Paralelo.csproj.GenerateResource.Cache
